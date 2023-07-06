@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "64a2eb39cc6a42195c6bc7f3"
+  },
+  "title": "The Way of Kings",
+  "author": "Brandon Sanderson",
+  "rating": 9,
+  "pages": 400,
+  "genres": [
+    "fantasy"
+  ],
+  "reviews": [
+    {
+      "name": "Yoshi",
+      "body": "Great book!!"
+    },
+    {
+      "name": "Mario",
+      "body": "so so"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a3086a20dd39c8fe8a0352"
+  },
+  "title": "The Light Fantastic",
+  "author": "Terry Pratchett",
+  "pages": 250,
+  "rating": 6,
+  "genres": [
+    "fantasy",
+    "magic"
+  ],
+  "reviews": [
+    {
+      "name": "Luigi",
+      "body": "It was pretty good"
+    },
+    {
+      "name": "Bowser",
+      "body": "Loved It!!!"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a3086a20dd39c8fe8a0353"
+  },
+  "title": "The Name of the Wind",
+  "author": "Patrick Rothfuss",
+  "pages": 500,
+  "rating": 10,
+  "genres": [
+    "fantasy"
+  ],
+  "reviews": [
+    {
+      "name": "Peach",
+      "body": "One of my favs"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a3086a20dd39c8fe8a0354"
+  },
+  "title": "The Color of Magic",
+  "author": "Terry Pratchett",
+  "pages": 350,
+  "rating": 8,
+  "genres": [
+    "fantasy",
+    "magic"
+  ],
+  "reviews": [
+    {
+      "name": "Luigi",
+      "body": "It was OK"
+    },
+    {
+      "name": "Bowser",
+      "body": "Really good book"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a3086a20dd39c8fe8a0355"
+  },
+  "title": "1984",
+  "author": "George Orwell",
+  "pages": 300,
+  "rating": 6,
+  "genres": [
+    "sci-fi",
+    "dystopian",
+    "fantasy"
+  ],
+  "reviews": [
+    {
+      "name": "Peach",
+      "body": "Not my cup of tea"
+    },
+    {
+      "name": "Mario",
+      "body": "Meh"
+    }
+  ]
+}]
